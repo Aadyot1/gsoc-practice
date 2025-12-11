@@ -1,3 +1,4 @@
 My first GSoC practice commit
 This is my first branch update
-This line is added only for the PR test.
+This line is added for practicing how to update a PR after review.
+
